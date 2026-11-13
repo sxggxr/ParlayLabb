@@ -1,0 +1,12 @@
+{
+ "appId": "com.parlaylab.app",
+ "appName": "ParlayLab",
+ "webDir": "www",
+ "backgroundColor": "#060807",
+ "server": {
+  "androidScheme": "https"
+ },
+ "android": {
+  "backgroundColor": "#060807"
+ }
+}
